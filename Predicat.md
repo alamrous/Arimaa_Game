@@ -6,6 +6,7 @@ A) A faire tout de suite
 
 
 B) A faire après
+
   5. Relations de force
   6. Geler
   7. Lapin ne doit pas reculer
